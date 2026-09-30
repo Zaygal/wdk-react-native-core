@@ -1,8 +1,10 @@
 # @tetherto/wdk-react-native-core
 
-Core functionality for React Native wallets, providing wallet management, balance fetching, and more.
+Core functionality for React Native wallets built with WDK (Wallet Development Kit) by Tether, providing wallet management, balance fetching, and more.
 
 This library uses a unique **worklet bundle** to run intensive cryptographic operations on a separate thread, ensuring your app's UI remains fast and responsive.
+
+See the [React Native Core documentation](https://docs.wdk.tether.io/tools/react-native-core/).
 
 ## Features
 
